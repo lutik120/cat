@@ -1,0 +1,23 @@
+body {
+	/*background-color:#E9967A;*/
+	color:#A0522D;
+	background-image:url("https://fons.pibig.info/uploads/posts/2023-06/1687177169_fons-pibig-info-p-oboi-s-koshachimi-lapkami-krasivo-35.jpg");
+	background-size:100%;
+}
+h1 {
+	color:#A0522D;
+	text-align:center;
+}
+h2 {
+	text-decoration:underline;
+}
+p {
+	text-indent:50px;
+}
+table {
+	border:2px solid black;
+	border-collapse:collapse;
+}
+th,td {
+	border:2px solid black;
+}
